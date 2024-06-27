@@ -1,17 +1,16 @@
 Full list [here](https://cvpr.thecvf.com/Conferences/2024/workshop-list)
 ---
-The following table only shows workshops with relevant papers with possible code available. If papers are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.
+The following table only shows workshops with relevant papers with possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.
 
 | Title | Papers | Codes | Keywords |
-|:-------------------|:-------------------|:-------------------:|:-------------------:|    
+|:-------------------|:-------------------:|:-------------------:|:-------------------:|    
 |9th New Trends in Image Restoration and Enhancement Workshop and Challenges| [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/NTIRE)||<ul><li>Low Light Image Enhancement</li><li>Image Shadow Removal</li><li>Blind Enhancement of Compressed Image</li><li>Image Restoration In The Wild</li><li>Image Super-Restoration (x4)</li><li>Dense and Non-Homogeneous Dehazing</li><li>Efficient Super-Resolution</li></ul>|
 |8th AI City Challenge| [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/AICity)| Compile:[![GitHub](https://img.shields.io/github/stars/NVIDIAAICITYCHALLENGE/2024AICITY_Code_From_Top_Teams?style=social)](https://github.com/NVIDIAAICITYCHALLENGE/2024AICITY_Code_From_Top_Teams)|<ul><li>Multi-Camera People Tracking<li>Naturalistic Driving Action Recognition
 | Efficient Large Vision Models | [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/eLVM)||<ul><li>Efficient ViT<li>Segmentation
 |Multimodal Algorithmic Reasoning| [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/MAR)|Best Paper: [![GitHub](https://img.shields.io/github/stars/Berkeley-NLP/Agent-Eval-Refine?style=social)](https://github.com/Berkeley-NLP/Agent-Eval-Refine)|<ul><li>Agent
-
-
-
-
-
-
-
+| CVPR 2024 Biometrics Workshop |[![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/BIOMET)|GraFIQs: [![GitHub](https://img.shields.io/github/stars/jankolf/GraFIQs?style=social)](https://github.com/jankolf/GraFIQs)<br>TattTRN: [![GitHub](https://img.shields.io/github/stars/ljsoler/TattTRN?style=social)](https://github.com/ljsoler/TattTRN)|<ul><li>Face Image QA<li>Tatto Retrival<li>RGB-D FR
+| The 3rd Workshop on Transformers for Vision | [Papers](https://sites.google.com/view/t4v-cvpr24/papers?authuser=0)||<ul><li>ViT
+|2024 VizWiz Grand Challenge Workshop|[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@vizwiz3911/videos)<br>[Papers](https://vizwiz.org/workshops/2024-vizwiz-grand-challenge-workshop/)||<ul><li>Visual Question Answering<li>VQA Grounding
+|2nd Face Recognition Challenge in the Era of Synthetic Data (FRCSyn) |[![arXiv](https://img.shields.io/badge/arXiv-2404.10378-b31b1b.svg?style=for-the-badge)](https://arxiv.org/pdf/2404.10378)<br><details><summary>TLDR</summary>1. Unconstrained synthetic data generally led to better performance than constrained synthetic data.<br>2. Combining synthetic and real data often yielded the best results, particularly in bias mitigation.<br>3. In some cases, unlimited synthetic data outperformed limited real data.<br>4. Most top teams used established methodologies like ResNet or IResNet backbones and AdaFace or ArcFace loss functions.<br>5. DCFace was widely used for synthetic data generation, often combined with other methods.<br>6. The challenge demonstrated significant improvements compared to the 1st edition, showcasing the potential of synthetic data in face recognition.</details>||<ul><li>Synthetic Data for FR
+| 2nd Workshop onWhat is Next in Multimodal Foundation Models?| [Papers](https://sites.google.com/view/2nd-mmfm-workshop/program?authuser=0) / [![GitHub](https://img.shields.io/github/stars/EliSchwartz/MMFM24?style=social)](https://github.com/EliSchwartz/MMFM24)||<ul><li>Multi Modal LLM for image and video
+|1st Workshop on Test-Time Adaptation|[Papers](https://tta-cvpr2024.github.io/papers.html)<br>[![Google Slides](https://a11ybadges.com/badge?logo=googleslides)](https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.g2e4bb78fbc4_1_0)||<ul><li>Test-Time Adaptation for Object Detection and Action Recognition

@@ -1,6 +1,6 @@
 Full list [here](https://cvpr.thecvf.com/Conferences/2024/workshop-list)
 ---
-The following table only shows workshops with relevant papers with possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.
+The following table only shows workshops with relevant papers + possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.
 
 | Title | Keywords | Papers | Codes |
 |:-------------------|:-------------------:|:-------------------:|:-------------------:|    
@@ -16,6 +16,7 @@ The following table only shows workshops with relevant papers with possible code
 |1st Workshop on Test-Time Adaptation|<ul><li>Test-Time Adaptation for Object Detection and Action Recognition| [Papers](https://tta-cvpr2024.github.io/papers.html)<br>[![Google Slides](https://a11ybadges.com/badge?logo=slides)](https://docs.google.com/presentation/d/1Qj3QxE-GMILEkXLKmcCQsyVOFqn4nB4sUsX9ZvKgLpI/edit#slide=id.g2e4bb78fbc4_1_0)|IoU-filter: [![GitHub](https://img.shields.io/github/stars/XiaoqianRuan1/IoU-filter?style=social)](https://github.com/XiaoqianRuan1/IoU-filter)|
 |GAZE 2024|<ul><li>Gaze Estimation| [Papers](https://gazeworkshop.github.io/2024/)|stage:<br>[![GitHub](https://img.shields.io/github/stars/jswati31/stage?style=social)](https://github.com/jswati31/stage)|
 | The 3rd Explainable AI for Computer Vision (XAI4CV) Workshop | <ul><li>Explainablility for CNN & ViT| [Papers + Posters](https://xai4cv.github.io/workshop_cvpr24)|lvlm-interpret: [![GitHub](https://img.shields.io/github/stars/IntelLabs/lvlm-interpret?style=social)](https://github.com/IntelLabs/lvlm-interpret)| 
+|Embedded Vision Workshop| <ul><li>Video Object Detection for Embedded Systems| [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/EVW)| MR2-ByteTrack:<br>[![GitHub](https://img.shields.io/github/stars/Bomps4/Multi_Resolution_Rescored_ByteTrack?style=social)](https://github.com/Bomps4/Multi_Resolution_Rescored_ByteTrack)
 
 
 [comment]: <> (googleslide simple icons not working)

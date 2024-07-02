@@ -20,4 +20,4 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
 |49. Scene Understanding|50. Semi/Self-Supervised Learning|51. Sketch|52. Sound|
 |53. Style Transfer|54. UAV/Remote Sensing|55. VQA|56. Video|
 |57. Vision LLM|58. Visual Relationship Detection|59. Visual Emotion Recognition|60. ViT|
-|61. Image Classification|62. Others|
+|61. Image Classification|62. Others|63. Keypoints Localization|

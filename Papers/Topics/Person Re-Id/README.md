@@ -16,4 +16,4 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [BigGait: Learning Gait Representation You Want by Large Vision Models](https://openaccess.thecvf.com/content/CVPR2024/html/Ye_BigGait_Learning_Gait_Representation_You_Want_by_Large_Vision_Models_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29623.png?t=1718477336.5394292) | [![GitHub](https://img.shields.io/github/stars/ShiqiYu/OpenGait?style=social)](https://github.com/ShiqiYu/OpenGait) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=s5o7Etr9QwQ)
-
+| [Learning Visual Prompt for Gait Recognition](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_Learning_Visual_Prompt_for_Gait_Recognition_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30891.png?t=1718848324.8338137) | 

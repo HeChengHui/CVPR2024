@@ -12,7 +12,7 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
 |17. Human-Computer Interaction|18. Image Fusion|19. Image Matching|20. Image Progress|
 |21. Image Retrieval|22. Image Segmentation|23. Image Synthesis|24. Image/Video Captioning|
 |25. Image/Video Compression|26. Image/Video Super-Resolution|27. Industrial Anomaly Detection|28. Information Security|
-|29. Light-Field|30. MC/KD/Pruning|31. ML|32. Medical Image Progress|
+|29. Light-Field|30. Compression/Distillation/Pruning/Quantization|31. ML|32. Medical Image Progress|
 |33. Motion Generation|34. Multimodal|35. NAS|36. NLP|
 |37. NeRF|38. OCR|39. Object Detection|40. Object Pose Estimation|
 |41. Object Tracking|42. OOD Detection|43. Optical Flow Estimation|44. Person Re-Id|

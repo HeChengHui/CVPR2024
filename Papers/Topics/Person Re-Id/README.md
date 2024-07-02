@@ -5,6 +5,13 @@
 
 ---
 
+### Other Spectrum Person Re-ID
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Implicit Discriminative Knowledge Learning for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2024/html/Ren_Implicit_Discriminative_Knowledge_Learning_for_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.html) | | [![GitHub](https://img.shields.io/github/stars/1KK077/IDKL?style=social)](https://github.com/1KK077/IDKL)
+
+---
+
 ### Gait
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

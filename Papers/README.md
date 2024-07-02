@@ -3,6 +3,9 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
 🌟[![GitHub](https://img.shields.io/badge/52CV-CVPR_2024_Papers-a?style=social&logo=github)](https://github.com/52CV/CVPR-2024-Papers)🐐
 ---
 
+⭐ - Highlight Paper  
+🏆 - Award Candidate Paper
+
 |🐱|🐶|🐯|🐺|
 |------|------|------|------|
 |1. 3D|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|

@@ -15,7 +15,7 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
 |29. Light-Field|30. Compression/Distillation/Pruning/Quantization|31. ML|32. Medical Image Progress|
 |33. Motion Generation|34. Multimodal|35. NAS|36. NLP|
 |37. NeRF|38. OCR|39. Object Detection|40. Object Pose Estimation|
-|41. Object Tracking|42. OOD Detection|43. Optical Flow Estimation|44. Person Re-Id|
+|41. Object Tracking|42. OOD Detection|43. Optical Flow Estimation|44. Person Re-Id/Gait|
 |45. Point Cloud|46. REC|47. SLAM/AR/VR/Robotics|48. Scene Graph Generation|
 |49. Scene Understanding|50. Semi/Self-Supervised Learning|51. Sketch|52. Sound|
 |53. Style Transfer|54. UAV/Remote Sensing|55. VQA|56. Video|

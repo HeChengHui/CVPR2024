@@ -4,7 +4,7 @@ The following table only shows workshops with relevant papers + possible code av
   
 ***NOTE***: Unders the Resources column, the first link shows all the accepted papers in that workshop, followed by any other available resources I can find.
 
-| Title | Keywords | Resources | Codes |
+| Workshops | Keywords | Resources | Codes |
 |:-------------------:|:-------------------:|:-------------------:|:-------------------:|    
 |9th New Trends in Image Restoration and Enhancement Workshop and Challenges| <ul><li>Low Light Image Enhancement</li><li>Image Shadow Removal</li><li>Blind Enhancement of Compressed Image</li><li>Image Restoration In The Wild</li><li>Image Super-Restoration (x4)</li><li>Dense and Non-Homogeneous Dehazing</li><li>Efficient Super-Resolution</li></ul>|[![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/NTIRE)||
 |8th AI City Challenge| <ul><li>Multi-Camera People Tracking<li>Naturalistic Driving Action Recognition| [![Open Access](https://a11ybadges.com/badge?logo=openaccess)](https://openaccess.thecvf.com/CVPR2024_workshops/AICity)| Compile:[![GitHub](https://img.shields.io/github/stars/NVIDIAAICITYCHALLENGE/2024AICITY_Code_From_Top_Teams?style=social)](https://github.com/NVIDIAAICITYCHALLENGE/2024AICITY_Code_From_Top_Teams)|

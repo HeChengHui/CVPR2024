@@ -23,3 +23,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring  ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Blur-aware_Spatio-temporal_Sparse_Transformer_for_Video_Deblurring_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30677.png?t=1716898909.9325092) | [![GitHub](https://img.shields.io/github/stars/huicongzhang/BSSTNet?style=social)](https://github.com/huicongzhang/BSSTNet)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=E5ccs75YJpc)
+
+---
+
+### Denoising
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Robust Image Denoising through Adversarial Frequency Mixup](https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30677.png?t=1716898909.9325092) | [![GitHub](https://img.shields.io/github/stars/dhryougit/AFM?style=social)](https://github.com/dhryougit/AFM)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=zQ0pwFSk7uo)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/WhatsApp%20Image%202024-07-03%20at%2015.33.14.jpeg)

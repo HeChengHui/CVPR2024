@@ -5,6 +5,13 @@
 
 ---
 
+### Facial Action Unit
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Multi-scale Dynamic and Hierarchical Relationship Modeling for Facial Action Units Recognition](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Multi-scale_Dynamic_and_Hierarchical_Relationship_Modeling_for_Facial_Action_Units_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29919.png?t=1717304508.975803) | [![GitHub](https://img.shields.io/github/stars/CVI-SZU/MDHR?style=social)](https://github.com/CVI-SZU/MDHR) | ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/WhatsApp%20Image%202024-07-03%20at%2011.03.19.jpeg)
+
+---
+
 ### Talking Head/Human Synthesis
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

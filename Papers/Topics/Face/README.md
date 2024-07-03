@@ -40,4 +40,4 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[PairDETR : Joint Detection and Association of Human Bodies and Faces](https://openaccess.thecvf.com/content/CVPR2024/papers/Ali_PairDETR__Joint_Detection_and_Association_of_Human_Bodies_and_CVPR_2024_paper.pdf) | | [![GitHub](https://img.shields.io/github/stars/mts-ai/pairdetr?style=social)](https://github.com/mts-ai/pairdetr) 
-
+| [Self-Supervised Facial Representation Learning with Facial Region Awareness](https://openaccess.thecvf.com/content/CVPR2024/html/Gao_Self-Supervised_Facial_Representation_Learning_with_Facial_Region_Awareness_CVPR_2024_paper.html) | ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/30074.png) | [![GitHub](https://img.shields.io/github/stars/zaczgao/Facial_Region_Awareness?style=social)](https://github.com/zaczgao/Facial_Region_Awareness) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=IjdFYD-X5UU)

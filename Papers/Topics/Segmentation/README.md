@@ -31,6 +31,13 @@
 
 ---
 
+### 2D + 3D Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [ODIN: A Single Model for 2D and 3D Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Jain_ODIN_A_Single_Model_for_2D_and_3D_Segmentation_CVPR_2024_paper.html)| | [![GitHub](https://img.shields.io/github/stars/ayushjain1144/odin?style=social)](https://github.com/ayushjain1144/odin)|![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/WhatsApp%20Image%202024-07-03%20at%2023.02.07.jpeg)
+
+---
+
 ### Semantic Segmentation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

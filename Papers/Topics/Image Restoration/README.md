@@ -2,6 +2,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[FlowIE: Efficient Image Enhancement via Rectified Flow](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_FlowIE_Efficient_Image_Enhancement_via_Rectified_Flow_CVPR_2024_paper.html) | | [![GitHub](https://img.shields.io/github/stars/EternalEvan/FlowIE?style=social)](https://github.com/EternalEvan/FlowIE)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/WhatsApp%20Image%202024-07-03%20at%2015.09.13.jpeg)
+| [Deep Equilibrium Diffusion Restoration with Parallel Sampling ](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Deep_Equilibrium_Diffusion_Restoration_with_Parallel_Sampling_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/31759.png) | [![GitHub](https://img.shields.io/github/stars/caojiezhang/DeqIR?style=social)](https://github.com/caojiezhang/DeqIR)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0D_iZe8sXV0)
 
 ---
 

@@ -1,11 +1,13 @@
 Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?filter=titles&search=).  
   
-🌟[![GitHub](https://img.shields.io/badge/52CV-CVPR_2024_Papers-a?style=social&logo=github)](https://github.com/52CV/CVPR-2024-Papers)🐐
+🌟[![GitHub](https://img.shields.io/badge/52CV-CVPR_2024_Papers-a?style=social&logo=github)](https://github.com/52CV/CVPR-2024-Papers)🐐 - See this for full list
 ---
 
 ⭐ - Highlight Paper  
-🏆 - Award Candidate Paper
+🏆 - Award Candidate Paper  
+**I will generally put spotlight at the top. However, if it does not have code that i can test, i will placed them below others, even for spotlight.**  
 
+  
 |🐱|🐶|🐯|🐺|
 |------|------|------|------|
 |1. 3D|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|

@@ -21,6 +21,12 @@
 | [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31675.png?t=1716687368.6970675) | [![GitHub](https://img.shields.io/github/stars/xb534/SED?style=social)](https://github.com/xb534/SED)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=1hfCnjtTtSo)
 | [Open-Vocabulary Segmentation with Semantic-Assisted Calibration ](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Open-Vocabulary_Segmentation_with_Semantic-Assisted_Calibration_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/29834.png) | [![GitHub](https://img.shields.io/github/stars/yongliu20/SCAN?style=social)](https://github.com/yongliu20/SCAN)
 
+---
+
+### Interactive Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| ⭐[GraCo: Granularity-Controllable Interactive Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_GraCo_Granularity-Controllable_Interactive_Segmentation_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31571.png?t=1717420465.3381748) | [![GitHub](https://img.shields.io/github/stars/Zhao-Yian/GraCo?style=social)](https://github.com/Zhao-Yian/GraCo)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=DGCQSLC-prU)
 
 ---
 

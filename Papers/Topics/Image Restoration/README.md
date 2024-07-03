@@ -23,6 +23,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring  ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Blur-aware_Spatio-temporal_Sparse_Transformer_for_Video_Deblurring_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30677.png?t=1716898909.9325092) | [![GitHub](https://img.shields.io/github/stars/huicongzhang/BSSTNet?style=social)](https://github.com/huicongzhang/BSSTNet)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=E5ccs75YJpc)
+| [Efficient Multi-scale Network with Learnable Discrete Wavelet Transform for Blind Motion Deblurring ](https://openaccess.thecvf.com/content/CVPR2024/html/Gao_Efficient_Multi-scale_Network_with_Learnable_Discrete_Wavelet_Transform_for_Blind_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/29748.png)| [![GitHub](https://img.shields.io/github/stars/thqiu0419/MLWNet?style=social)](https://github.com/thqiu0419/MLWNet)
 
 ---
 

@@ -1,3 +1,10 @@
+### Face Landmark Estimation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Yin_SCE-MAE_Selective_Correspondence_Enhancement_with_Masked_Autoencoder_for_Self-Supervised_Landmark_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30445.png?t=1715379396.8552032) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=fd6Z4mRNJS4)
+
+---
+
 ### Face Recognition
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

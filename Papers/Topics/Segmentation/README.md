@@ -13,6 +13,8 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Open-World Semantic Segmentation Including Class Similarity ](https://openaccess.thecvf.com/content/CVPR2024/html/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29608.png?t=1716464601.0709767) | [![GitHub](https://img.shields.io/github/stars/PRBonn/ContMAV?style=social)](https://github.com/PRBonn/ContMAV)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=ei2cbyPQgag)|
+| [ASAM: Boosting Segment Anything Model with Adversarial Tuning ](https://openaccess.thecvf.com/content/CVPR2024/html/Li_ASAM_Boosting_Segment_Anything_Model_with_Adversarial_Tuning_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31630.png?t=1717313200.7029068) | [![GitHub](https://img.shields.io/github/stars/luckybird1994/ASAM?style=social)](https://github.com/luckybird1994/ASAM)|![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/WhatsApp%20Image%202024-07-03%20at%2023.26.12.jpeg)
+
 
 ---
 

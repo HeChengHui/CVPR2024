@@ -11,7 +11,7 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
 |1. 3D|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|
 |5. Clustering|6. Dataset|7. Deepfake Detection|8. Dense Predictions|
 |9. Edge Detection|10. Face|11. Few/Zero-Shot Learning|12. Fisheye Images|
-|13. Gaze|14. Graph Networks|15. HAR|16. Human Pose Estimation/Synthesis|
+|13. Gaze|14. Graph Networks|15. HAR|16. Human Pose Estimation/Body Generation|
 |17. Human-Computer Interaction|18. Image Fusion|19. Image Matching|20. Image Progress|
 |21. Image Retrieval|22. Image Segmentation|23. Image Synthesis|24. Image/Video Captioning|
 |25. Image/Video Compression|26. Image/Video Super-Resolution|27. Industrial Anomaly Detection|28. Information Security|

@@ -16,6 +16,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [A Semi-supervised Nighttime Dehazing Baseline with Spatial-Frequency Aware and Realistic Brightness Constraint ](https://openaccess.thecvf.com/content/CVPR2024/html/Cong_A_Semi-supervised_Nighttime_Dehazing_Baseline_with_Spatial-Frequency_Aware_and_Realistic_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31865.png?t=1714357449.1005368) | [![GitHub](https://img.shields.io/github/stars/Xiaofeng-life/SFSNiD?style=social)](https://github.com/Xiaofeng-life/SFSNiD)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Z9KZDnGKUi4)
+| [Depth Information Assisted Collaborative Mutual Promotion Network for Single Image Dehazing ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Depth_Information_Assisted_Collaborative_Mutual_Promotion_Network_for_Single_Image_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29800.png?t=1716886426.2519374) | [![GitHub](https://img.shields.io/github/stars/zhoushen1/DIACMPN?style=social)](https://github.com/zhoushen1/DIACMPN)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=PgC5iKv0US4)
 
 ---
 

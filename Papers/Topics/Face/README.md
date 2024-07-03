@@ -1,6 +1,7 @@
 ### Face Landmark Estimation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
+| [Generalizable Face Landmarking Guided by Conditional Face Warping ](https://openaccess.thecvf.com/content/CVPR2024/html/Liang_Generalizable_Face_Landmarking_Guided_by_Conditional_Face_Warping_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29328.png?t=1717329109.8400028) | [![GitHub](https://img.shields.io/github/stars/plustwo0/generalized-face-landmarker?style=social)](https://github.com/plustwo0/generalized-face-landmarker) | ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/WhatsApp%20Image%202024-07-03%20at%2014.41.08.jpeg)
 | [SCE-MAE: Selective Correspondence Enhancement with Masked Autoencoder for Self-Supervised Landmark Estimation](https://openaccess.thecvf.com/content/CVPR2024/html/Yin_SCE-MAE_Selective_Correspondence_Enhancement_with_Masked_Autoencoder_for_Self-Supervised_Landmark_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30445.png?t=1715379396.8552032) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=fd6Z4mRNJS4)
 
 ---

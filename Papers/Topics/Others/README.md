@@ -1,0 +1,3 @@
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration](https://openaccess.thecvf.com/content/CVPR2024/html/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29340.png?t=1714369334.6147525) | [![GitHub](https://img.shields.io/github/stars/zekunqian/bevsee?style=social)](https://github.com/zekunqian/bevsee) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=AQivxJiuwKc)

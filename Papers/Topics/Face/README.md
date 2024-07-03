@@ -20,6 +20,14 @@
 
 ---
 
+
+### Face Image QA
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://openaccess.thecvf.com/content/CVPR2024/html/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.html) | | [![GitHub](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA?style=social)](https://github.com/oufuzhao/CLIB-FIQA) | ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/WhatsApp%20Image%202024-07-03%20at%2013.01.45.jpeg)
+
+---
+
 ### Talking Head/Human Synthesis
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

@@ -43,3 +43,11 @@
 |------|------|------|------|
 | ⭐[Frequency-Adaptive Dilated Convolution for Semantic Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Frequency-Adaptive_Dilated_Convolution_for_Semantic_Segmentation_CVPR_2024_paper.html)|![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30701.png?t=1717170034.0834613) | [![GitHub](https://img.shields.io/github/stars/Linwei-Chen/FADC?style=social)](https://github.com/Linwei-Chen/FADC)
 | ⭐[EAGLE: Eigen Aggregation Learning for Object-Centric Unsupervised Semantic Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_EAGLE_Eigen_Aggregation_Learning_for_Object-Centric_Unsupervised_Semantic_Segmentation_CVPR_2024_paper.html)|![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30293.png?t=1717421354.7938871) | [![GitHub](https://img.shields.io/github/stars/MICV-yonsei/EAGLE?style=social)](https://github.com/MICV-yonsei/EAGLE)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0a799IDW4e0)
+
+---
+
+### Instance Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| ⭐[Semantic-aware SAM for Point-Prompted Instance Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentation_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/29420.png) | [![GitHub](https://img.shields.io/github/stars/zhaoyangwei123/SAPNet?style=social)](https://github.com/zhaoyangwei123/SAPNet)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=42-tJFmT7Ao)
+

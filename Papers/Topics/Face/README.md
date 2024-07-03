@@ -9,6 +9,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://openaccess.thecvf.com/content/CVPR2024/html/Peng_SyncTalk_The_Devil_is_in_the_Synchronization_for_Talking_Head_CVPR_2024_paper.html) | ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/31254.png) | [![GitHub](https://img.shields.io/github/stars/ziqiaopeng/SyncTalk?style=social)](https://github.com/ziqiaopeng/SyncTalk) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=j1TG2-qHDqE)
+| [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://openaccess.thecvf.com/content/CVPR2024/html/Ng_From_Audio_to_Photoreal_Embodiment_Synthesizing_Humans_in_Conversations_CVPR_2024_paper.html)| | [![GitHub](https://img.shields.io/github/stars/facebookresearch/audio2photoreal?style=social)](https://github.com/facebookresearch/audio2photoreal) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Y0GMaMtUynQ)
 
 ---
 

@@ -15,6 +15,13 @@
 
 ---
 
+### Open-Vocab Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31675.png?t=1716687368.6970675) | [![GitHub](https://img.shields.io/github/stars/xb534/SED?style=social)](https://github.com/xb534/SED)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=1hfCnjtTtSo)
+
+---
+
 ### Semantic Segmentation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

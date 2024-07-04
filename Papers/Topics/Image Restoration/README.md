@@ -38,3 +38,10 @@
 |------|------|------|------|
 | [Robust Image Denoising through Adversarial Frequency Mixup](https://openaccess.thecvf.com/content/CVPR2024/html/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.html) | ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30677.png?t=1716898909.9325092) | [![GitHub](https://img.shields.io/github/stars/dhryougit/AFM?style=social)](https://github.com/dhryougit/AFM)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=zQ0pwFSk7uo)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/WhatsApp%20Image%202024-07-03%20at%2015.33.14.jpeg)
 |[ Masked and Shuffled Blind Spot Denoising for Real-World Images ](https://openaccess.thecvf.com/content/CVPR2024/html/Chihaoui_Masked_and_Shuffled_Blind_Spot_Denoising_for_Real-World_Images_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31552.png?t=1717287533.879461) | [![GitHub](https://img.shields.io/github/stars/hamadichihaoui/mash?style=social)](https://github.com/hamadichihaoui/mash)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Hfde622TB-I)
+
+---
+
+### Video Stabilisation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Harnessing Meta-Learning for Improving Full-Frame Video Stabilization ](https://openaccess.thecvf.com/content/CVPR2024/html/Ali_Harnessing_Meta-Learning_for_Improving_Full-Frame_Video_Stabilization_CVPR_2024_paper.html)| ![30892](https://github.com/HeChengHui/CVPR2024/assets/84503515/01b86541-d10f-41a1-85b8-deec3377281a)|[![GitHub](https://img.shields.io/github/stars/MKashifAli/MetaVideoStab?style=social)](https://github.com/MKashifAli/MetaVideoStab)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/WhatsApp%20Image%202024-07-04%20at%2017.54.31.jpeg)

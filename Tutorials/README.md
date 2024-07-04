@@ -1,5 +1,8 @@
-Full list [here](https://cvpr.thecvf.com/Conferences/2024/tutorial-list)
----
+### Full list [here](https://cvpr.thecvf.com/Conferences/2024/tutorial-list)
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+  
 The following table only shows tutorials with relevant topics.
 
 | Tutorials | Keywords | Videos | Slides |

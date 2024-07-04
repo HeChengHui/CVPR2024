@@ -1,5 +1,8 @@
-Full list [here](https://cvpr.thecvf.com/Conferences/2024/workshop-list)
----
+### Full list [here](https://cvpr.thecvf.com/Conferences/2024/workshop-list)
+<p align="center">
+    <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
+</p>
+  
 The following table only shows workshops with relevant papers + possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.  
   
 ***NOTE***: Unders the Resources column, the first link shows all the accepted papers in that workshop, followed by any other available resources I can find.

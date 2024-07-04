@@ -8,11 +8,17 @@
 
 ---
 
+### Agent
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [AssistGUI: Task-Oriented PC Graphical User Interface Automation ](https://openaccess.thecvf.com/content/CVPR2024/html/Gao_AssistGUI_Task-Oriented_PC_Graphical_User_Interface_Automation_CVPR_2024_paper.html)|| [![GitHub](https://img.shields.io/github/stars/showlab/assistgui?style=social)](https://github.com/showlab/assistgui)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Vision%20LLM/assets/WhatsApp%20Image%202024-07-05%20at%2000.04.23.jpeg)
+
+---
+
 ### Video-Language
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Distilling Vision-Language Models on Millions of Videos ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Distilling_Vision-Language_Models_on_Millions_of_Videos_CVPR_2024_paper.html)| ![30028](https://github.com/HeChengHui/CVPR2024/assets/84503515/4f9c0fa3-4468-4e0e-99bb-f4f69eb3db94)| [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://zhaoyue-zephyrus.github.io/video-instruction-tuning/)
-
 
 ---
 

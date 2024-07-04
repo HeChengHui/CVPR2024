@@ -1,6 +1,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [From a Bird's Eye View to See: Joint Camera and Subject Registration without the Camera Calibration](https://openaccess.thecvf.com/content/CVPR2024/html/Qian_From_a_Birds_Eye_View_to_See_Joint_Camera_and_CVPR_2024_paper.html) | ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Others/assets/29340.png) | [![GitHub](https://img.shields.io/github/stars/zekunqian/bevsee?style=social)](https://github.com/zekunqian/bevsee) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=AQivxJiuwKc)
+|  [Day-Night Cross-domain Vehicle Re-identification ](https://openaccess.thecvf.com/content/CVPR2024/html/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.html)| ![30038](https://github.com/HeChengHui/CVPR2024/assets/84503515/76f8ed9a-a8d5-46c0-a1e7-068a5c607cdc) | [![GitHub](https://img.shields.io/github/stars/chenjingong/DN-ReID?style=social)](https://github.com/chenjingong/DN-ReID)
+
+
+
 
 ---
 

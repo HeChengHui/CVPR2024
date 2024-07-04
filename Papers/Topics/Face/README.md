@@ -20,12 +20,19 @@
 
 ---
 
-
 ### Face Image QA
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [CLIB-FIQA: Face Image Quality Assessment with Confidence Calibration](https://openaccess.thecvf.com/content/CVPR2024/html/Ou_CLIB-FIQA_Face_Image_Quality_Assessment_with_Confidence_Calibration_CVPR_2024_paper.html) | | [![GitHub](https://img.shields.io/github/stars/oufuzhao/CLIB-FIQA?style=social)](https://github.com/oufuzhao/CLIB-FIQA) | ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/WhatsApp%20Image%202024-07-03%20at%2013.01.45.jpeg)
 |[DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer ](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_DSL-FIQA_Assessing_Facial_Image_Quality_via_Dual-Set_Degradation_Learning_and_CVPR_2024_paper.html)| | [![GitHub](https://img.shields.io/github/stars/DSL-FIQA/DSL-FIQA?style=social)](https://github.com/DSL-FIQA/DSL-FIQA) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=7jDzj-CBvbQ)
+
+---
+
+### Face Restoration
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [WaveFace: Authentic Face Restoration with Efficient Frequency Recovery ](https://openaccess.thecvf.com/content/CVPR2024/html/Miao_WaveFace_Authentic_Face_Restoration_with_Efficient_Frequency_Recovery_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/30181.png) | [![GitHub](https://img.shields.io/github/stars/yoqim/waveface?style=social)](https://github.com/yoqim/waveface)
+
 
 ---
 

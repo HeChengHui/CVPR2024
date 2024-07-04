@@ -1,6 +1,6 @@
-Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?filter=titles&search=).  
+### Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?filter=titles&search=).  
   
-🌟[![GitHub](https://img.shields.io/badge/52CV-CVPR_2024_Papers-a?style=social&logo=github)](https://github.com/52CV/CVPR-2024-Papers)🐐 - See this for full list
+### 🌟[![GitHub](https://img.shields.io/badge/52CV-CVPR_2024_Papers-a?style=social&logo=github)](https://github.com/52CV/CVPR-2024-Papers)🐐 - See this for full list
 
 <p align="center">
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">

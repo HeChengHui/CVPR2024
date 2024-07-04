@@ -10,7 +10,7 @@ Full searchable list [here](https://cvpr.thecvf.com/virtual/2024/papers.html?fil
   
 |🐱|🐶|🐯|🐺|
 |------|------|------|------|
-|1. 3D|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|
+|1. 3D/Depth Estimation|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|
 |5. Clustering|6. Dataset|7. Deepfake Detection|8. Dense Predictions|
 |9. Edge Detection|10. Face|11. Few/Zero-Shot Learning|12. Fisheye Images|
 |13. Gaze|14. Graph Networks|15. HAR|16. Human Generation from Audio/Pose Estimation|

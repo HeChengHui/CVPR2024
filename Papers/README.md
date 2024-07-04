@@ -26,6 +26,6 @@
 |41. Object Tracking|42. OOD Detection|43. Optical Flow Estimation|44. Person Re-Id/Gait|
 |45. Point Cloud|46. REC|47. SLAM/AR/VR/Robotics|48. Scene Graph Generation|
 |49. Scene Understanding|50. Semi/Self-Supervised Learning|51. Sketch|52. Sound|
-|53. Style Transfer|54. UAV/Remote Sensing|55. VQA|56. Video|
+|53. Style Transfer|54. UAV/Remote Sensing|55. Video Question Answering|56. Video|
 |57. Vision LLM|58. Visual Relationship Detection|59. Visual Emotion Recognition|60. ViT/Vision Foundation Model|
 |61. Image Classification|62. Others|63. Keypoints Localization|

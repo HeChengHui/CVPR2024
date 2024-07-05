@@ -10,3 +10,4 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Segment and Caption Anything ](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Segment_and_Caption_Anything_CVPR_2024_paper.html)|![29271](https://github.com/HeChengHui/CVPR2024/assets/84503515/788cea16-defc-46bd-8993-3443d7e1d187)| [![GitHub](https://img.shields.io/github/stars/xk-huang/segment-caption-anything?style=social)](https://github.com/xk-huang/segment-caption-anything)
+| [ MeaCap: Memory-Augmented Zero-shot Image Captioning ](https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_MeaCap_Memory-Augmented_Zero-shot_Image_Captioning_CVPR_2024_paper.html)| ![31735](https://github.com/HeChengHui/CVPR2024/assets/84503515/e59391a4-31e7-4d19-acc5-acd4e9239aad)| [![GitHub](https://img.shields.io/github/stars/joeyz0z/MeaCap?style=social)](https://github.com/joeyz0z/MeaCap)

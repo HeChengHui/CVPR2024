@@ -38,8 +38,13 @@
 
 ---
 
-
 ### Hallucination Mitigation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation ](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_OPERA_Alleviating_Hallucination_in_Multi-Modal_Large_Language_Models_via_Over-Trust_CVPR_2024_paper.html)|![30961](https://github.com/HeChengHui/CVPR2024/assets/84503515/ac08dda2-a0ac-4c58-b7ab-38e6d5437a9a)| [![GitHub](https://img.shields.io/github/stars/shikiw/OPERA?style=social)](https://github.com/shikiw/OPERA)
+
+---
+### Benchmark
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| 🏆⭐[MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI ](https://openaccess.thecvf.com/content/CVPR2024/html/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.html)|![31040](https://github.com/HeChengHui/CVPR2024/assets/84503515/9549f29c-5395-4ffd-80ae-8c512b76565e)| [![GitHub](https://img.shields.io/github/stars/MMMU-Benchmark/MMMU?style=social)](https://github.com/MMMU-Benchmark/MMMU)

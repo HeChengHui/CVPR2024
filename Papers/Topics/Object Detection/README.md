@@ -1,3 +1,10 @@
+### Open-Vocabulary Object Detection
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Taming Self-Training for Open-Vocabulary Object Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Taming_Self-Training_for_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html)| ![29999](https://github.com/HeChengHui/CVPR2024/assets/84503515/930134e7-957d-43b4-a3e5-7b6730c3a712)| [![GitHub](https://img.shields.io/github/stars/xiaofeng94/SAS-Det?style=social)](https://github.com/xiaofeng94/SAS-Det)
+
+---
+
 ### Training
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

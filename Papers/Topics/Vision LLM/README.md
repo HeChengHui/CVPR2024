@@ -46,6 +46,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation ](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_OPERA_Alleviating_Hallucination_in_Multi-Modal_Large_Language_Models_via_Over-Trust_CVPR_2024_paper.html)|![30961](https://github.com/HeChengHui/CVPR2024/assets/84503515/ac08dda2-a0ac-4c58-b7ab-38e6d5437a9a)| [![GitHub](https://img.shields.io/github/stars/shikiw/OPERA?style=social)](https://github.com/shikiw/OPERA)
+| ⭐[Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding ](https://openaccess.thecvf.com/content/CVPR2024/html/Leng_Mitigating_Object_Hallucinations_in_Large_Vision-Language_Models_through_Visual_Contrastive_CVPR_2024_paper.html)||[![GitHub](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD?style=social)](https://github.com/DAMO-NLP-SG/VCD)
 
 ---
 ### Benchmark

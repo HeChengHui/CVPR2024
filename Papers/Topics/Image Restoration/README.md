@@ -8,6 +8,13 @@
 
 ---
 
+### Document Restoration
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_DocRes_A_Generalist_Model_Toward_Unifying_Document_Image_Restoration_Tasks_CVPR_2024_paper.html)| ![29557](https://github.com/HeChengHui/CVPR2024/assets/84503515/a1f6c4d8-5cf7-46df-8618-78bf942116f2)| [![GitHub](https://img.shields.io/github/stars/ZZZHANG-jx/DocRes?style=social)](https://github.com/ZZZHANG-jx/DocRes)
+
+---
+
 ### Low-Light Enhancement
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

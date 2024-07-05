@@ -1,7 +1,8 @@
 ### Open-Vocabulary Object Detection
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
-| [Taming Self-Training for Open-Vocabulary Object Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Taming_Self-Training_for_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html)| ![29999](https://github.com/HeChengHui/CVPR2024/assets/84503515/930134e7-957d-43b4-a3e5-7b6730c3a712)| [![GitHub](https://img.shields.io/github/stars/xiaofeng94/SAS-Det?style=social)](https://github.com/xiaofeng94/SAS-Det)
+| [Generative Region-Language Pretraining for Open-Ended Object Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Lin_Generative_Region-Language_Pretraining_for_Open-Ended_Object_Detection_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/FoundationVision/GenerateU?style=social)](https://github.com/FoundationVision/GenerateU)|![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Object%20Detection/assets/WhatsApp%20Image%202024-07-05%20at%2014.27.37.jpeg)
+| [Taming Self-Training for Open-Vocabulary Object Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_Taming_Self-Training_for_Open-Vocabulary_Object_Detection_CVPR_2024_paper.html)| ![29999](https://github.com/HeChengHui/CVPR2024/assets/84503515/930134e7-957d-43b4-a3e5-7b6730c3a712)| [![GitHub](https://img.shields.io/github/stars/xiaofeng94/SAS-Det?style=social)](https://github.com/xiaofeng94/SAS-Det)|
 
 ---
 

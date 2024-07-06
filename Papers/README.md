@@ -16,11 +16,11 @@
 |1. 3D/Depth Estimation|2. 4D Reconstruction|3. Automated Driving|4. Biomedical|
 |5. Clustering|6. Dataset|7. Deepfake Detection|8. Dense Predictions|
 |9. Edge Detection|10. Face|11. Few/Zero-Shot Learning|12. Fisheye Images|
-|13. Gaze|14. Graph Networks|15. HAR|16. Human Generation from Audio/Human Pose Estimation|
+|13. Gaze|14. Graph Networks|15. Human Action Recognition|16. Human Generation from Audio/Human Pose Estimation|
 |17. Human-Computer Interaction|18. Image Fusion|19. Image Matching|20. Image/Video Restoration|
 |21. Image Retrieval|22. Segmentation|23. Image Synthesis|24. Image/Video Captioning|
 |25. Image/Video Compression|26. Image/Video Super-Resolution|27. Industrial Anomaly Detection|28. Information Security|
-|29. Light-Field|30. Compression/Distillation/Pruning/Quantization|31. ML|32. Medical Image Progress|
+|29. Light-Field|30. Compression/Distillation/Pruning/Quantization|31. Machine Learning|32. Medical Image Progress|
 |33. Motion Generation|34. Multimodal|35. NAS|36. NLP|
 |37. NeRF|38. OCR|39. Object Detection/Crowd|40. Object Pose Estimation|
 |41. Object Tracking|42. OOD Detection|43. Optical Flow Estimation|44. Person Re-Id/Gait|

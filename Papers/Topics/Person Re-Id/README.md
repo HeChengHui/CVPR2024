@@ -2,6 +2,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification ](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Distribution-aware_Knowledge_Prototyping_for_Non-exemplar_Lifelong_Person_Re-identification_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/zhoujiahuan1991/CVPR2024-DKP?style=social)](https://github.com/zhoujiahuan1991/CVPR2024-DKP)
+| [Learning Continual Compatible Representation for Re-indexing Free Lifelong Person Re-identification ](https://openaccess.thecvf.com/content/CVPR2024/html/Cui_Learning_Continual_Compatible_Representation_for_Re-indexing_Free_Lifelong_Person_Re-identification_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/PKU-ICST-MIPL/C2R_CVPR2024?style=social)](https://github.com/PKU-ICST-MIPL/C2R_CVPR2024)
 
 ---
 

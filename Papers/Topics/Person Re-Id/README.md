@@ -1,7 +1,7 @@
 ### Person Re-ID
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
-
+| [Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification ](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Distribution-aware_Knowledge_Prototyping_for_Non-exemplar_Lifelong_Person_Re-identification_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/zhoujiahuan1991/CVPR2024-DKP?style=social)](https://github.com/zhoujiahuan1991/CVPR2024-DKP)
 
 ---
 

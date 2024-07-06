@@ -1,0 +1,3 @@
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| ⭐[From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding ](https://openaccess.thecvf.com/content/CVPR2024/html/Li_From_Isolated_Islands_to_Pangea_Unifying_Semantic_Space_for_Human_CVPR_2024_paper.html)| ![29771](https://github.com/HeChengHui/CVPR2024/assets/84503515/7517f369-e971-4c7f-b3ed-e3d07979212c)| [![GitHub](https://img.shields.io/github/stars/DirtyHarryLYL/Sandwich?style=social)](https://github.com/DirtyHarryLYL/Sandwich)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=abv-KFMOV-o)

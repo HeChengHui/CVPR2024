@@ -8,6 +8,13 @@
 
 ---
 
+### Object Recognition
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| ⭐[Object Recognition as Next Token Prediction ](https://openaccess.thecvf.com/content/CVPR2024/html/Yue_Object_Recognition_as_Next_Token_Prediction_CVPR_2024_paper.html)| ![31732](https://github.com/HeChengHui/CVPR2024/assets/84503515/445430f7-d486-4423-af3e-9e37746117da)| [![GitHub](https://img.shields.io/github/stars/kaiyuyue/nxtp?style=social)](https://github.com/kaiyuyue/nxtp)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=xeI8dZIpoco)
+
+---
+
 ### Crowd Counting
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

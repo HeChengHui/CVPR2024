@@ -8,7 +8,6 @@
 | ⭐[Vanishing-Point-Guided Video Semantic Segmentation of Driving Scenes ](https://openaccess.thecvf.com/content/CVPR2024/html/Guo_Vanishing-Point-Guided_Video_Semantic_Segmentation_of_Driving_Scenes_CVPR_2024_paper.html)|![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29993.png?t=1717296403.025962) | [![GitHub](https://img.shields.io/github/stars/RascalGdd/VPSeg?style=social)](https://github.com/RascalGdd/VPSeg)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=uaE_BTBRduQ)
 | [Decoupling Static and Hierarchical Motion Perception for Referring Video Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/He_Decoupling_Static_and_Hierarchical_Motion_Perception_for_Referring_Video_Segmentation_CVPR_2024_paper.html)| ![30990](https://github.com/HeChengHui/CVPR2024/assets/84503515/9be03a23-4847-4f01-9b7a-141bf2be1059)| [![GitHub](https://img.shields.io/github/stars/heshuting555/DsHmp?style=social)](https://github.com/heshuting555/DsHmp)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=9dGgOgLr488)
 
-
 ---
 
 ### Open-World Segmentation
@@ -28,7 +27,6 @@
 | [SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_SED_A_Simple_Encoder-Decoder_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31675.png?t=1716687368.6970675) | [![GitHub](https://img.shields.io/github/stars/xb534/SED?style=social)](https://github.com/xb534/SED)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=1hfCnjtTtSo)
 | [Open-Vocabulary Segmentation with Semantic-Assisted Calibration ](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Open-Vocabulary_Segmentation_with_Semantic-Assisted_Calibration_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/29834.png) | [![GitHub](https://img.shields.io/github/stars/yongliu20/SCAN?style=social)](https://github.com/yongliu20/SCAN)
 | [Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation ](https://openaccess.thecvf.com/content/CVPR2024/html/Barsellotti_Training-Free_Open-Vocabulary_Segmentation_with_Offline_Diffusion-Augmented_Prototype_Generation_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30941.png?t=1717429631.8403218) | [![GitHub](https://img.shields.io/github/stars/aimagelab/freeda?style=social)](https://github.com/aimagelab/freeda)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=lXpr2DorzQU)
-
 
 ---
 
@@ -61,3 +59,9 @@
 |------|------|------|------|
 | ⭐[Semantic-aware SAM for Point-Prompted Instance Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Wei_Semantic-aware_SAM_for_Point-Prompted_Instance_Segmentation_CVPR_2024_paper.html)| ![Poster](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Segmentation/assets/29420.png) | [![GitHub](https://img.shields.io/github/stars/zhaoyangwei123/SAPNet?style=social)](https://github.com/zhaoyangwei123/SAPNet)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=42-tJFmT7Ao)
 
+---
+
+### Dataset
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [COCONut: Modernizing COCO Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Deng_COCONut_Modernizing_COCO_Segmentation_CVPR_2024_paper.html)||[![GitHub](https://img.shields.io/github/stars/bytedance/coconut_cvpr2024?style=social)](https://github.com/bytedance/coconut_cvpr2024)

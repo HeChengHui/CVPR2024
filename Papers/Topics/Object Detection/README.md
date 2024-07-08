@@ -1,6 +1,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [DETRs Beat YOLOs on Real-time Object Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.html)|![31301](https://github.com/HeChengHui/CVPR2024/assets/84503515/051f78c9-291c-477e-a165-97ea3854b88e)| [![GitHub](https://img.shields.io/github/stars/lyuwenyu/RT-DETR?style=social)](https://github.com/lyuwenyu/RT-DETR)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=UOc0qMSX4Ac)
+|[Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement](https://openaccess.thecvf.com/content/CVPR2024/html/Hou_Salience_DETR_Enhancing_Detection_Transformer_with_Hierarchical_Salience_Filtering_Refinement_CVPR_2024_paper.html)| ![image](https://github.com/HeChengHui/CVPR2024/assets/84503515/a9e39da7-b5de-4ba7-838e-06c3acbfa2a7)| [![GitHub](https://img.shields.io/github/stars/xiuqhou/Salience-DETR?style=social)](https://github.com/xiuqhou/Salience-DETR)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Object%20Detection/assets/20240620_182012.jpg)
 
 ---
 

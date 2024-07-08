@@ -2,6 +2,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [RMT: Retentive Networks Meet Vision Transformers ](https://openaccess.thecvf.com/content/CVPR2024/html/Fan_RMT_Retentive_Networks_Meet_Vision_Transformers_CVPR_2024_paper.html)| ![Poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/30086.png?t=1716465605.0185454) | [![GitHub](https://img.shields.io/github/stars/qhfan/RMT?style=social)](https://github.com/qhfan/RMT)
+|[TransNeXt: Robust Foveal Visual Perception for Vision Transformers](https://openaccess.thecvf.com/content/CVPR2024/html/Shi_TransNeXt_Robust_Foveal_Visual_Perception_for_Vision_Transformers_CVPR_2024_paper.html)| ![image](https://github.com/HeChengHui/CVPR2024/assets/84503515/ef4e1c42-b053-4945-9a50-55e39a380012)| [![GitHub](https://img.shields.io/github/stars/DaiShiResearch/TransNeXt?style=social)](https://github.com/DaiShiResearch/TransNeXt)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=MTv3QpNXMU8)
 
 ---
 

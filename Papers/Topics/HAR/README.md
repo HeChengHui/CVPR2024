@@ -2,6 +2,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 |[ End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames ](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_End-to-End_Temporal_Action_Detection_with_1B_Parameters_Across_1000_Frames_CVPR_2024_paper.html)| | [![GitHub](https://img.shields.io/github/stars/sming256/OpenTAD?style=social)](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/HAR/assets/WhatsApp%20Image%202024-07-08%20at%2014.43.14.jpeg)
+| [TE-TAD: Towards Full End-to-End Temporal Action Detection via Time-Aligned Coordinate Expression ](https://openaccess.thecvf.com/content/CVPR2024/html/Kim_TE-TAD_Towards_Full_End-to-End_Temporal_Action_Detection_via_Time-Aligned_Coordinate_CVPR_2024_paper.html)| ![31123](https://github.com/HeChengHui/CVPR2024/assets/84503515/bd80cda3-80ac-4918-833c-223ec8afdc96)| [![GitHub](https://img.shields.io/github/stars/Dotori-HJ/TE-TAD?style=social)](https://github.com/Dotori-HJ/TE-TAD)
 
 ---
 

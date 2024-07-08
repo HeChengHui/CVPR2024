@@ -18,6 +18,14 @@
 
 ---
 
+### Action Localization
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+|[ Realigning Confidence with Temporal Saliency Information for Point-Level Weakly-Supervised Temporal Action Localization ](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Realigning_Confidence_with_Temporal_Saliency_Information_for_Point-Level_Weakly-Supervised_Temporal_CVPR_2024_paper.html)| ![29274](https://github.com/HeChengHui/CVPR2024/assets/84503515/b1555781-a172-495e-a590-4346fccba07a)|[![GitHub](https://img.shields.io/github/stars/zyxia1009/CVPR2024-TSPNet?style=social)](https://github.com/zyxia1009/CVPR2024-TSPNet)
+ 
+
+---
+
 ### Audio-Visual
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

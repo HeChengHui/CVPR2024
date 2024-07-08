@@ -16,3 +16,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [CSTA: CNN-based Spatiotemporal Attention for Video Summarization ](https://openaccess.thecvf.com/content/CVPR2024/html/Son_CSTA_CNN-based_Spatiotemporal_Attention_for_Video_Summarization_CVPR_2024_paper.html)|![31330](https://github.com/HeChengHui/CVPR2024/assets/84503515/a530aa42-0cc5-41ea-be85-f5512314944f)| [![GitHub](https://img.shields.io/github/stars/thswodnjs3/CSTA?style=social)](https://github.com/thswodnjs3/CSTA)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=bJKgSlBTIJM)
+
+---
+
+### Video Grounding 
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [SnAG: Scalable and Accurate Video Grounding ](https://openaccess.thecvf.com/content/CVPR2024/html/Mu_SnAG_Scalable_and_Accurate_Video_Grounding_CVPR_2024_paper.html)| ![31102](https://github.com/HeChengHui/CVPR2024/assets/84503515/720ef676-e910-4d68-a883-3d00040cadc5)| [![GitHub](https://img.shields.io/github/stars/fmu2/snag_release?style=social)](https://github.com/fmu2/snag_release)

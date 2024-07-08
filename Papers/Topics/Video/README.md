@@ -23,3 +23,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [SnAG: Scalable and Accurate Video Grounding ](https://openaccess.thecvf.com/content/CVPR2024/html/Mu_SnAG_Scalable_and_Accurate_Video_Grounding_CVPR_2024_paper.html)| ![31102](https://github.com/HeChengHui/CVPR2024/assets/84503515/720ef676-e910-4d68-a883-3d00040cadc5)| [![GitHub](https://img.shields.io/github/stars/fmu2/snag_release?style=social)](https://github.com/fmu2/snag_release)
+
+---
+
+### Dataset
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Towards Surveillance Video-and-Language Understanding: New Dataset Baselines and Challenges ](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_Towards_Surveillance_Video-and-Language_Understanding_New_Dataset_Baselines_and_Challenges_CVPR_2024_paper.html)| ![30807](https://github.com/HeChengHui/CVPR2024/assets/84503515/f44cedf9-784d-4657-bb2f-0572431243d3)| [![GitHub](https://img.shields.io/github/stars/Xuange923/Surveillance-Video-Understanding?style=social)](https://github.com/Xuange923/Surveillance-Video-Understanding)

@@ -44,6 +44,13 @@
 
 ---
 
+### Universal Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Unsupervised Universal Image Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Niu_Unsupervised_Universal_Image_Segmentation_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/u2seg/U2Seg?style=social)](https://github.com/u2seg/U2Seg)
+
+---
+
 ### Semantic Segmentation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

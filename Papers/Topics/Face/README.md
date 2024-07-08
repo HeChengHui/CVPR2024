@@ -38,7 +38,7 @@
 ### Dataset
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
-| [EFHQ: Multi-purpose ExtremePose-Face-HQ dataset ](https://openaccess.thecvf.com/content/CVPR2024/html/Dao_EFHQ_Multi-purpose_ExtremePose-Face-HQ_dataset_CVPR_2024_paper.html)|![31772](https://github.com/HeChengHui/CVPR2024/assets/84503515/15db8b2a-be1a-4366-bc0f-60f94cc26da3)| [![GitHub](https://img.shields.io/github/stars/vinairesearch/efhq?style=social)](https://github.com/vinairesearch/efhq) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CUW5yg7OTjA)
+| [EFHQ: Multi-purpose ExtremePose-Face-HQ dataset ](https://openaccess.thecvf.com/content/CVPR2024/html/Dao_EFHQ_Multi-purpose_ExtremePose-Face-HQ_dataset_CVPR_2024_paper.html)|![31772](https://github.com/HeChengHui/CVPR2024/assets/84503515/15db8b2a-be1a-4366-bc0f-60f94cc26da3)| [![GitHub](https://img.shields.io/github/stars/vinairesearch/efhq?style=social)](https://github.com/vinairesearch/efhq) <br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CUW5yg7OTjA)|![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Face/assets/WhatsApp%20Image%202024-07-09%20at%2000.35.46.jpeg)
 
 
 ---

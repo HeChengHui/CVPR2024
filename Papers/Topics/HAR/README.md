@@ -24,6 +24,7 @@
 ### Action Segmentation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
+| ⭐[Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Temporally_Consistent_Unbalanced_Optimal_Transport_for_Unsupervised_Action_Segmentation_CVPR_2024_paper.html)| ![31480](https://github.com/HeChengHui/CVPR2024/assets/84503515/b8be5782-9dba-41be-b9b3-98bdaeed46f8)| [![GitHub](https://img.shields.io/github/stars/mingu6/action_seg_ot?style=social)](https://github.com/mingu6/action_seg_ot)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=KXGuqGDa1C0)
 | [FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Action Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_FACT_Frame-Action_Cross-Attention_Temporal_Modeling_for_Efficient_Action_Segmentation_CVPR_2024_paper.html)| ![29976](https://github.com/HeChengHui/CVPR2024/assets/84503515/d925f46a-1c63-4105-a359-19ef0326ced5)| [![GitHub](https://img.shields.io/github/stars/ZijiaLewisLu/CVPR2024-FACT?style=social)](https://github.com/ZijiaLewisLu/CVPR2024-FACT)
 
 ---

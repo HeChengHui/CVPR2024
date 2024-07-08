@@ -4,6 +4,13 @@
 
 ---
 
+### Action Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Action Segmentation ](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_FACT_Frame-Action_Cross-Attention_Temporal_Modeling_for_Efficient_Action_Segmentation_CVPR_2024_paper.html)| ![29976](https://github.com/HeChengHui/CVPR2024/assets/84503515/d925f46a-1c63-4105-a359-19ef0326ced5)| [![GitHub](https://img.shields.io/github/stars/ZijiaLewisLu/CVPR2024-FACT?style=social)](https://github.com/ZijiaLewisLu/CVPR2024-FACT)
+
+---
+
 ### Audio-Visual
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

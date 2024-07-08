@@ -5,7 +5,7 @@
 
 ---
 
-### Video Anomaly Detection
+### Moment Retrieval 
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
-| ⭐[Multi-Scale Video Anomaly Detection by Multi-Grained Spatio-Temporal Representation Learning ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Multi-Scale_Video_Anomaly_Detection_by_Multi-Grained_Spatio-Temporal_Representation_Learning_CVPR_2024_paper.html)|![29327](https://github.com/HeChengHui/CVPR2024/assets/84503515/4262e898-da50-4b1b-b05d-da15bb65cc00)| October :(|
+| [Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Bridging_the_Gap_A_Unified_Video_Comprehension_Framework_for_Moment_CVPR_2024_paper.html)| ![29668](https://github.com/HeChengHui/CVPR2024/assets/84503515/cd0f0c3f-0af5-48cf-a90c-7b4ee5a3d8f8)| [![GitHub](https://img.shields.io/github/stars/EasonXiao-888/UVCOM?style=social)](https://github.com/EasonXiao-888/UVCOM)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=CgsZe3nphIY)

@@ -9,6 +9,13 @@
 
 ---
 
+### Different View Person Re-ID
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network ](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.html)| |[![GitHub](https://img.shields.io/github/stars/LinlyAC/VDT-AGPReID?style=social)](https://github.com/LinlyAC/VDT-AGPReID)|![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Person%20Re-Id/assets/WhatsApp%20Image%202024-07-08%20at%2023.55.46.jpeg)
+
+---
+
 ### Other Spectrum Person Re-ID
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

@@ -1,3 +1,11 @@
+### Action Detection
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+|[ End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames ](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_End-to-End_Temporal_Action_Detection_with_1B_Parameters_Across_1000_Frames_CVPR_2024_paper.html)| | [![GitHub](https://img.shields.io/github/stars/sming256/OpenTAD?style=social)](https://github.com/sming256/OpenTAD/tree/main/configs/adatad)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/HAR/assets/WhatsApp%20Image%202024-07-08%20at%2014.43.14.jpeg)
+
+---
+
+### Action Understanding
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding ](https://openaccess.thecvf.com/content/CVPR2024/html/Li_From_Isolated_Islands_to_Pangea_Unifying_Semantic_Space_for_Human_CVPR_2024_paper.html)| ![29771](https://github.com/HeChengHui/CVPR2024/assets/84503515/7517f369-e971-4c7f-b3ed-e3d07979212c)| [![GitHub](https://img.shields.io/github/stars/DirtyHarryLYL/Sandwich?style=social)](https://github.com/DirtyHarryLYL/Sandwich)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=abv-KFMOV-o)

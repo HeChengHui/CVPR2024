@@ -8,6 +8,7 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Open-Vocabulary Video Anomaly Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Open-Vocabulary_Video_Anomaly_Detection_CVPR_2024_paper.html)| ![30364](https://github.com/HeChengHui/CVPR2024/assets/84503515/4296137e-465d-4d74-b391-102b51a23338)| [![GitHub](https://img.shields.io/github/stars/nwpu-zxr/VadCLIP?style=social)](https://github.com/nwpu-zxr/VadCLIP)
+| [Harnessing Large Language Models for Training-free Video Anomaly Detection ](https://openaccess.thecvf.com/content/CVPR2024/html/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.html)| ![29246](https://github.com/HeChengHui/CVPR2024/assets/84503515/0fb3c5db-58c3-4fcb-9653-7fc21cb6e4a4)| [![GitHub](https://img.shields.io/github/stars/lucazanella/lavad?style=social)](https://github.com/lucazanella/lavad)
 
 ---
 

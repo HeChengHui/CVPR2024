@@ -8,6 +8,13 @@
 
 ---
 
+### Referring MOT
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [iKUN: Speak to Trackers without Retraining ](https://openaccess.thecvf.com/content/CVPR2024/html/Du_iKUN_Speak_to_Trackers_without_Retraining_CVPR_2024_paper.html)| ![31695](https://github.com/HeChengHui/CVPR2024/assets/84503515/5aa4de01-5800-46f0-b018-baf9ef8612c8)| [![GitHub](https://img.shields.io/github/stars/dyhBUPT/iKUN?style=social)](https://github.com/dyhBUPT/iKUN)
+
+---
+
 ### 3D Multi-Camera MOT
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

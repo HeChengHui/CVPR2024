@@ -41,6 +41,13 @@
 
 ---
 
+### Test-Time Adaptation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [What How and When Should Object Detectors Update in Continually Changing Test Domains? ](https://openaccess.thecvf.com/content/CVPR2024/html/Yoo_What_How_and_When_Should_Object_Detectors_Update_in_Continually_CVPR_2024_paper.html)| ![29997](https://github.com/HeChengHui/CVPR2024/assets/84503515/0656ce8b-a1fb-43a7-ac26-5d6b780c3436)|[![GitHub](https://img.shields.io/github/stars/natureyoo/ContinualTTA_ObjectDetection?style=social)](https://github.com/natureyoo/ContinualTTA_ObjectDetection)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=awhLEXstYVY)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Object%20Detection/assets/WhatsApp%20Image%202024-07-10%20at%2000.25.27.jpeg)
+
+---
+
 ### Training
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

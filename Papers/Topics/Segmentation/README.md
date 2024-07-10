@@ -69,6 +69,13 @@
 
 ---
 
+### Reasoning Segmentation
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| ⭐[LISA: Reasoning Segmentation via Large Language Model ](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)| ![30109](https://github.com/HeChengHui/CVPR2024/assets/84503515/81b0c9e1-9da7-49fa-81f8-5c4f928c49f8)| [![GitHub](https://img.shields.io/github/stars/dvlab-research/LISA?style=social)](https://github.com/dvlab-research/LISA)
+
+---
+
 ### Dataset
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

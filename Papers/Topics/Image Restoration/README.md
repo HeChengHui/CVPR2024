@@ -54,3 +54,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | [Harnessing Meta-Learning for Improving Full-Frame Video Stabilization ](https://openaccess.thecvf.com/content/CVPR2024/html/Ali_Harnessing_Meta-Learning_for_Improving_Full-Frame_Video_Stabilization_CVPR_2024_paper.html)| ![30892](https://github.com/HeChengHui/CVPR2024/assets/84503515/01b86541-d10f-41a1-85b8-deec3377281a)|[![GitHub](https://img.shields.io/github/stars/MKashifAli/MetaVideoStab?style=social)](https://github.com/MKashifAli/MetaVideoStab)| ![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Image%20Restoration/assets/WhatsApp%20Image%202024-07-04%20at%2017.54.31.jpeg)
+
+---
+
+### Atmospheric Turbulence
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence ](https://openaccess.thecvf.com/content/CVPR2024/html/Saha_Turb-Seg-Res_A_Segment-then-Restore_Pipeline_for_Dynamic_Videos_with_Atmospheric_Turbulence_CVPR_2024_paper.html)| ![30708](https://github.com/HeChengHui/CVPR2024/assets/84503515/19f71a59-8a3c-4ae1-b5f2-d2ca47366517)| [![GitHub](https://img.shields.io/github/stars/Riponcs/Turb-Seg-Res?style=social)](https://github.com/Riponcs/Turb-Seg-Res)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=oM3vIO42gGE)

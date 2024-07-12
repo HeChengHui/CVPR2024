@@ -1,3 +1,10 @@
+1. [Person Re-ID](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Person%20Re-Id#person-re-id)
+2. [Different View Person Re-ID](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Person%20Re-Id#different-view-person-re-id)
+3. [Other Spectrum Person Re-ID](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Person%20Re-Id#other-spectrum-person-re-id)
+4. [Gait](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Person%20Re-Id#gait)
+
+---
+
 ### Person Re-ID
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

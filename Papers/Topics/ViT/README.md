@@ -1,5 +1,5 @@
 1. [ViT](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/ViT#vit)
-2. [Convolution](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/ViT#conv)
+2. [Conv](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/ViT#conv)
 3. [Vision Foundation Model](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/ViT#vision-foundation-model)
 
 ---

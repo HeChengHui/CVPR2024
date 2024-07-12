@@ -1,3 +1,8 @@
+1. [Monocular Depth Estimation](https://github.com/HeChengHui/CVPR2024/edit/main/Papers/Topics/3D/README.md#monocular-depth-estimation)
+2. [Talking Head Synthesis
+](https://github.com/HeChengHui/CVPR2024/edit/main/Papers/Topics/3D/README.md#talking-head-synthesis)
+---
+
 ### Monocular Depth Estimation 
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

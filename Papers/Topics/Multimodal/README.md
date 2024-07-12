@@ -1,3 +1,8 @@
+1. Mulitmodal LLM
+
+---
+
+### Mulitmodal LLM
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action ](https://openaccess.thecvf.com/content/CVPR2024/html/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.html)|![29572](https://github.com/HeChengHui/CVPR2024/assets/84503515/3b1feb81-c59a-466d-8ed4-953d2cc17806)| [![GitHub](https://img.shields.io/github/stars/allenai/unified-io-2?style=social)](https://github.com/allenai/unified-io-2)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=0CRPI2W_jow)

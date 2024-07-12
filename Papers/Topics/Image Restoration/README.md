@@ -1,3 +1,14 @@
+1. [Image Restoration](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#image-restoration)
+2. [Document Restoration](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#document-restoration)
+3. [Low-Light Enhancement](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#low-light-enhancement)
+4. [Dehazing](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#dehazing)
+5. [Deblurring](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#deblurring)
+6. [Denoising](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#denoising)
+7. [Video Stabilisation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#video-stabilisation)
+8. [Atmospheric Turbulence](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Image%20Restoration#atmospheric-turbulence)
+
+---
+
 ### Image Restoration
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

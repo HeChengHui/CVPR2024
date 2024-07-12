@@ -1,5 +1,12 @@
 ## There are too many. Only include ones that looks interesting/spotlight. 
 
+### All-In-One
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [OMG-Seg: Is One Model Good Enough For All Segmentation? ](https://openaccess.thecvf.com/content/CVPR2024/html/Li_OMG-Seg_Is_One_Model_Good_Enough_For_All_Segmentation_CVPR_2024_paper.html)|![image](https://github.com/user-attachments/assets/cdebd576-100b-483b-9b53-d3adb6290c33)| [![GitHub](https://img.shields.io/github/stars/lxtGH/OMG-Seg?style=social)](https://github.com/lxtGH/OMG-Seg)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=XHPDzhNg9Ss)
+
+---
+
 ### Video Segmentation
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

@@ -6,12 +6,13 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Video-ChatGPT">
 </p>
 
-⭐ - Highlight Paper  
-🏆 - Award Candidate Paper  
+> [!TIP] 
+> ⭐ - Highlight Paper  
+> 🏆 - Award Candidate Paper  
 
-❗**Note:**
-- I generally put spotlight at the top. However, if it does not have pretrained model that i can test, i will placed them below others, even for spotlight.
-- I mostly include papers with code+pretrained. Do keep in mind that some might release code later.   
+> [!NOTE]
+> - I generally put spotlight at the top. However, if it does not have pretrained model that i can test, i will placed them below others, even for spotlight.
+> - I mostly include papers with code+pretrained. Do keep in mind that some might release code later.   
   
   
 |🐱|🐶|🐯|🐺|

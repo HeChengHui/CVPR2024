@@ -1,3 +1,9 @@
+1. [Video SR](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Super-Resolution#video-sr)
+2. [Image SR](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Super-Resolution#image-sr)
+3. [Others](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Super-Resolution#others)
+
+---
+
 ### Video SR
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

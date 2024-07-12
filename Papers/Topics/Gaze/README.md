@@ -1,4 +1,8 @@
-*Gaze stuff quite little, so i these in first even though no code.
+Gaze stuff quite little, so i put these in first even though no code.
+1. [Gaze Estimation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Gaze#gaze-estimation)
+2. [Gaze Following](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Gaze#gaze-following)
+
+---
 
 ### Gaze Estimation
 |Title|Poster|Resources|Pic|

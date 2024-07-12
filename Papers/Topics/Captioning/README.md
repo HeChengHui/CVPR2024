@@ -1,3 +1,8 @@
+1. [Video Captioning](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Captioning#video)
+2. [Image Captioning](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Captioning#image)
+
+---
+
 ### Video
 |Title|Poster|Resources|Pic|
 |------|------|------|------|

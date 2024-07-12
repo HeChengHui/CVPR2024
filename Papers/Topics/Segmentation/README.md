@@ -1,4 +1,17 @@
 ## There are too many. Only include ones that looks interesting/spotlight. 
+1. [All-In-One](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#all-in-one)
+2. [Video Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#video-segmentation)
+3. [Open-World Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#open-world-segmentation)
+4. [Open-Vocab Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#open-vocab-segmentation)
+5. [Interactive Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#interactive-segmentation)
+6. [2D + 3D Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#2d--3d-segmentation)
+7. [Universal Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#universal-segmentation)
+8. [Semantic Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#semantic-segmentation)
+9. [Instance Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#instance-segmentation)
+10. [Reasoning Segmentation](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#reasoning-segmentation)
+11. [Dataset](https://github.com/HeChengHui/CVPR2024/tree/main/Papers/Topics/Segmentation#dataset)
+
+---
 
 ### All-In-One
 |Title|Poster|Resources|Pic|

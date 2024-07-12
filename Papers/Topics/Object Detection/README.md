@@ -71,7 +71,7 @@
 
 ---
 
-### Synthetic Dataset Generation
+### Dataset
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 |[ InstaGen: Enhancing Object Detection by Training on Synthetic Dataset ](https://openaccess.thecvf.com/content/CVPR2024/html/Feng_InstaGen_Enhancing_Object_Detection_by_Training_on_Synthetic_Dataset_CVPR_2024_paper.html)| ![29588](https://github.com/HeChengHui/CVPR2024/assets/84503515/f7c5696c-ed2f-4926-abcf-2b1b0fce3074)| [![GitHub](https://img.shields.io/github/stars/fcjian/InstaGen?style=social)](https://github.com/fcjian/InstaGen)<br> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=kOMYenofFNw)

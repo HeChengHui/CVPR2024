@@ -11,3 +11,10 @@
 |Title|Poster|Resources|Pic|
 |------|------|------|------|
 | ⭐[MMSum: A Dataset for Multimodal Summarization and Thumbnail Generation of Videos ](https://openaccess.thecvf.com/content/CVPR2024/html/Qiu_MMSum_A_Dataset_for_Multimodal_Summarization_and_Thumbnail_Generation_of_CVPR_2024_paper.html)||[![GitHub](https://img.shields.io/github/stars/Jason-Qiu/MMSum_model?style=social)](https://github.com/Jason-Qiu/MMSum_model)
+
+---
+
+### Others
+|Title|Poster|Resources|Pic|
+|------|------|------|------|
+| [X-VILA: Cross-Modality Alignment for Large Language Model](https://arxiv.org/abs/2405.19335)| ||![Pic](https://github.com/HeChengHui/CVPR2024/blob/main/Papers/Topics/Multimodal/assets/WhatsApp%20Image%202024-07-12%20at%2016.45.45.jpeg)

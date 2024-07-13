@@ -11,6 +11,7 @@
 > 🏆 - Award Candidate Paper  
 
 > [!NOTE]
+> - Only papers that is relevant to me is included.
 > - I generally put spotlight at the top. However, if it does not have pretrained model that i can test, i will placed them below others, even for spotlight.
 > - I mostly include papers with code+pretrained. Do keep in mind that some might release code later.   
   

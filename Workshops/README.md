@@ -1,5 +1,5 @@
 ### Full list [here](https://cvpr.thecvf.com/Conferences/2024/workshop-list) & [here](https://openaccess.thecvf.com/CVPR2024_workshops/menu)
-### Some Posters [here](https://github.com/HeChengHui/CVPR2024/tree/main/Materials)
+### Some Posters [here](https://github.com/HeChengHui/CVPR2024/tree/main/Materials) & [award winners](https://cvpr.thecvf.com/Conferences/2024/News/Workshop-Winners)
 ### Videos [here](https://cvpr.thecvf.com/Conferences/2024/Videos)
 <p align="center">
     <a href="#"><img src="https://i.imgur.com/waxVImv.png" style="pointer-events: none;"></a>

@@ -1,4 +1,5 @@
 ### Full list [here](https://cvpr.thecvf.com/Conferences/2024/tutorial-list)
+### Videos [here](https://cvpr.thecvf.com/Conferences/2024/Videos)
 <p align="center">
     <a href="#"><img src="https://i.imgur.com/waxVImv.png" style="pointer-events: none;"></a>
 </p>

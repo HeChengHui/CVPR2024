@@ -3,8 +3,9 @@
 <p align="center">
     <a href="#"><img src="https://i.imgur.com/waxVImv.png" style="pointer-events: none;"></a>
 </p>
-  
-The following table only shows tutorials with relevant topics.
+
+> [!NOTE]
+> - The following table only shows tutorials with relevant topics.
 
 | Tutorials | Keywords | Videos | Slides |
 |:-------------------:|:-------------------:|:-------------------:|:-------------------:|   

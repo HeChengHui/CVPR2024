@@ -2,10 +2,10 @@
 <p align="center">
     <a href="#"><img src="https://i.imgur.com/waxVImv.png" style="pointer-events: none;"></a>
 </p>
-  
-The following table only shows workshops with relevant papers + possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.  
-  
-***NOTE***: Unders the Resources column, the first link shows all the accepted papers in that workshop, followed by any other available resources I can find.
+
+> [!NOTE]
+> - The following table only shows workshops with relevant papers + possible code available either shown here or stated in the papers. If all papers in a workshop are present in the [main conference](https://github.com/HeChengHui/CVPR2024/tree/main/Papers), the workshop would not be mentioned here.    
+> - Unders the Resources column, the first link shows all the accepted papers in that workshop, followed by any other available resources I can find.
 
 | Workshops | Keywords | Resources | Codes |
 |:-------------------:|:-------------------:|:-------------------:|:-------------------:|    
